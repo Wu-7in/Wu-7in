@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Qin Wu — Digital Marketing & AI
 
-<!--
-**Wu-7in/Wu-7in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Digital Marketing & AI @ SKEMA (France)  
+🌍 Bilingual: Chinese (native), English (C1), French (B1)  
+💡 Focus: SEO/SEM, Marketing Analytics, AI automation, Growth
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+- **Marketing Analytics Dashboard** — GA4 + Ads API -> KPI tracking & insights  
+  → https://github.com/Wu-7in/marketing-analytics-dashboard
+- **AI Email Generator** — Prompt + API to draft Mailchimp campaigns  
+  → https://github.com/Wu-7in/ai-email-generator
+- **BMI Calculator (demo)** — Simple web tool (HTML/JS)  
+  → https://github.com/Wu-7in/bmi-calculator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+**Marketing**: Google Ads, GA4, GTM, SEO/SEM, CRO, Mailchimp  
+**Data/AI**: Python (pandas, scikit-learn), SQL, Jupyter, API  
+**Tools**: WordPress, Canva, Figma, Tableau/Power BI
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/qin-wu) · wuqin792@gmail.com · Nice, France
